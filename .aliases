@@ -15,6 +15,10 @@ alias g="git"
 alias h="history"
 alias j="jobs"
 
+# Git shortcuts
+alias g st="git status"
+alias g com="git commit -am"
+
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
 	colorflag="--color"
