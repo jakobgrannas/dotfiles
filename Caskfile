@@ -4,11 +4,11 @@
 install caskroom/cask/brew-cask
 tap caskroom/versions
 
-cask install google-chrome-canary 2> /dev/null
 cask install iterm2 2> /dev/null
-cask install macvim 2> /dev/null
 cask install the-unarchiver 2> /dev/null
-cask install phpstorm
+cask install spectacle
+cask install caffeine
+cask install 1password
+cask install atom
 #cask install spotify
 #cask install dropbox
-#cask install mamp

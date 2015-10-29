@@ -9,7 +9,6 @@ upgrade
 
 install node # This installs `npm` too using the recommended installation method
 install nvm
-install mercurial
 
 # Remove outdated versions from the cellar
 cleanup
